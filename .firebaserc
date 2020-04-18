@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "clientpanel-b3d9b": {
+      "hosting": {
+        "clientpanel": [
+          "clientpanel-b3d9b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "clientpanel-b3d9b"
+  }
+}
